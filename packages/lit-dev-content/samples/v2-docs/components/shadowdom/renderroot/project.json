@@ -1,8 +1,0 @@
-{
-  "extends": "/samples/v2-base.json",
-  "files": {
-    "default-root.ts": {},
-    "light-dom.ts": {},
-    "index.html": {}
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "extends": "/samples/v3-base.json",
-  "files": {
-    "my-element.ts": {},
-    "super-element.ts": {},
-    "index.html": {}
-  }
-}

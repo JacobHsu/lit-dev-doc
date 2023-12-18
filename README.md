@@ -4,6 +4,11 @@ New site, new repo.
 
 lit / [lit.dev](https://github.com/lit/lit.dev)
 
+## dev
+
+`lsof -i :6417`  ID（PID） 
+`kill -12345 PID`
+
 ## Packages
 
 This is an npm workspaces monorepo.
